@@ -91,7 +91,7 @@ function test(){
 
 #### HTML code
 
-``` html
+```html
 <!DOCTYPE html>
 <html>
     <head>
